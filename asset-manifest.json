@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-router-app/static/css/main.f6480caa.chunk.css",
+    "main.js": "/react-router-app/static/js/main.e53cc46b.chunk.js",
+    "main.js.map": "/react-router-app/static/js/main.e53cc46b.chunk.js.map",
+    "runtime-main.js": "/react-router-app/static/js/runtime-main.5af8bed5.js",
+    "runtime-main.js.map": "/react-router-app/static/js/runtime-main.5af8bed5.js.map",
+    "static/js/2.6a9ba453.chunk.js": "/react-router-app/static/js/2.6a9ba453.chunk.js",
+    "static/js/2.6a9ba453.chunk.js.map": "/react-router-app/static/js/2.6a9ba453.chunk.js.map",
+    "index.html": "/react-router-app/index.html",
+    "precache-manifest.fdefaaa1f2584f89646cb004c510fec3.js": "/react-router-app/precache-manifest.fdefaaa1f2584f89646cb004c510fec3.js",
+    "service-worker.js": "/react-router-app/service-worker.js",
+    "static/css/main.f6480caa.chunk.css.map": "/react-router-app/static/css/main.f6480caa.chunk.css.map",
+    "static/js/2.6a9ba453.chunk.js.LICENSE.txt": "/react-router-app/static/js/2.6a9ba453.chunk.js.LICENSE.txt",
+    "static/media/poznan1.jpg": "/react-router-app/static/media/poznan1.010f8a32.jpg",
+    "static/media/poznan2.jpg": "/react-router-app/static/media/poznan2.ad6e495b.jpg",
+    "static/media/poznanCathedral.jpg": "/react-router-app/static/media/poznanCathedral.69d9f9ce.jpg",
+    "static/media/poznanTrainStation.jpg": "/react-router-app/static/media/poznanTrainStation.9884956f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5af8bed5.js",
+    "static/js/2.6a9ba453.chunk.js",
+    "static/css/main.f6480caa.chunk.css",
+    "static/js/main.e53cc46b.chunk.js"
+  ]
+}
