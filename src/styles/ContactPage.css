@@ -1,0 +1,45 @@
+.contact textarea {
+  display: block;
+  margin: 10px 0px;
+  padding: 5px;
+  resize: none;
+  font-family: 'Open Sans', sans-serif;
+  width: 80%;
+  min-height: 200px;
+  outline: none;
+}
+
+.contact .name {
+  height: 30px;
+  min-height: 30px;
+}
+
+.contact button {
+  display: block;
+  padding: 3px 15px;
+  cursor: pointer;
+  background-color: white;
+  border: 1px black solid;
+  text-transform: uppercase;
+  transition: 0.5s;
+}
+
+.contact button:hover {
+  color: white;
+  background-color: black;
+  outline: none;
+}
+
+
+.contact h1 {
+  text-align: center;
+  border-bottom: black solid 2px;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+}
+
+.contact p {
+  text-align: justify;
+  margin: 15px 0px;
+}

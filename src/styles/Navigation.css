@@ -1,0 +1,42 @@
+nav.main {
+  padding: 10px;
+}
+
+.main ul {
+  list-style-type: none;
+}
+
+.main a {
+  display: block;
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 10px;
+  transition: .5s;
+}
+
+.main a:hover {
+  transform: translateX(10px);
+}
+
+.main a.active {
+  border-left: teal 5px solid;
+  transform: translateX(10px);
+}
+
+.main li:nth-child(1) a.active {
+  border-left-color: cadetblue;
+}
+
+.main li:nth-child(2) a.active {
+  border-left-color: yellowgreen;
+}
+
+.main li:nth-child(3) a.active {
+  border-left-color: blue;
+}
+
+.main li:nth-child(4) a.active {
+  border-left-color: red;
+}
