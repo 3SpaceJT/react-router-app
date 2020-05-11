@@ -30,15 +30,6 @@
   outline: none;
 }
 
-
-.contact h1 {
-  text-align: center;
-  border-bottom: black solid 2px;
-  padding-bottom: 10px;
-  margin-bottom: 10px;
-  text-transform: uppercase;
-}
-
 .contact p {
   text-align: justify;
   margin: 15px 0px;
